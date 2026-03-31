@@ -1,6 +1,6 @@
 # claude-code-source-code
 
-> Claude Code 源码档案与 Python 清室重写的研究仓库
+> Claude Code 源码档案与 Python 重写的研究仓库
 
 本仓库包含两个子项目，从不同角度对 Claude Code（Anthropic 官方 CLI 工具）进行深度研究：
 
