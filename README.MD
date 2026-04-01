@@ -4,8 +4,8 @@
 > Source archive of Claude Code and a clean-room Python rewrite research repository
 
 ## 🔥🔥🔥 News
-
-- 12:00 AM · Mar 31, 2026: [Hacker News discussion about Claude Code Leak](https://news.ycombinator.com/item?id=47586778)
+- 17:13 PM · Mar 31, 2026: [Architecture Analysis of Claude Code (In Chinese)](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ==&mid=2247502519&idx=1&sn=1072dd7a822a78709bc7cc3bf0e1dcc2&chksm=e8de6705e2bacc854211663aa02903738560f9e858eb6ce72b94c32fdbf67917badfab2d6536&mpshare=1&scene=1&srcid=0401KpkqfaXFBReRof6AwJ74&sharer_shareinfo=30fa54f1602d1d8bb1a65e7008074e08&sharer_shareinfo_first=30fa54f1602d1d8bb1a65e7008074e08#rd)
+- 15:00 PM · Mar 31, 2026: [Hacker News discussion about Claude Code Leak](https://news.ycombinator.com/item?id=47586778)
 - 9:50 AM · Mar 31, 2026: [Claude code memory analysis](https://x.com/henryl_ai/status/2039022608310808965)
 - 9:48 AM · Mar 31, 2026: [Claude Code's source code appears to have leaked: here's what we know](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)
 - 5:41 AM · Mar 31, 2026: [Why Claude Code Outperforms Other Tools: An Analysis](https://x.com/YukerX/status/2038959908968919297)
